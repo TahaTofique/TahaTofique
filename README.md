@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TahaTofique
+- 👋 Hi, I’m TahaTofique
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on basic programmming projects
