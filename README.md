@@ -1,5 +1,5 @@
 - 👋 Hi, I’m TahaTofique
-- 👀 I’m interested in nothing
+- 👀 I’m interested in GROWTH
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on basic programmming projects
 - 📫 How to reach me - tahatofique2005@gmail.com
